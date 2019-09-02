@@ -1,0 +1,17 @@
+{
+  "name": "tezos-api-example",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "description": "",
+  "scripts": {},
+  "dependencies": {
+    "conseiljs": "^0.2.6",
+    "fastest-validator": "^0.6.17",
+    "fastify": "^*",
+    "fastify-formbody": "^*",
+    "mymonero-core-js": "git+https://github.com/cryptofuture/mymonero-core-js.git",
+    "request": "^*",
+    "tronweb": "^2.7.1"
+  }
+}
