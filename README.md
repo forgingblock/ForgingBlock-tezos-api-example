@@ -6,7 +6,7 @@ And while the main product is proprietary, in this public repository we show exa
 
 ## Endpoints
 
-We have just to two endpoints and this repository. 
+We have just two endpoints in this repository. 
 
 First shows example how to validate tezos address, and second shows wallet account balance ether for mainnet or alphanet.
 
