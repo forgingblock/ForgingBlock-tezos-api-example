@@ -4,6 +4,8 @@ During [TQ tezos hackathon](http://ideo.tqtezos.com/) our main idea was to imple
 
 And while the main product is proprietary, in this public repository we show example of how exactly we interact with tezos blockchain using [conseiljs](https://github.com/Cryptonomic/ConseilJS). So the tezos community could get and idea how easy to use community provided libraries even in such complex project as [ForgingBlock Universal API](https://api.forgingblock.io/docs/#fbuni).
 
+Please see the Press Release from ForgingBlock: [FORGINGBLOCK IS PARTICIPATING IN TEZOS ONLINE HACKATHON 2019](https://medium.com/forgingblock/forgingblock-is-participating-in-tezos-online-hackathon-2019-e024c22c2da3)
+
 ## Endpoints
 
 We have just two endpoints in this repository. 
