@@ -1,4 +1,4 @@
-# Tezos API Example
+# ForgingBlock - Tezos API Example
 
 During [TQ tezos hackathon](http://ideo.tqtezos.com/) our main idea was to implement Tezos support for [Forging Block Universal API](https://api.forgingblock.io/docs/#fbuni).
 
