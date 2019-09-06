@@ -1,8 +1,8 @@
 # ForgingBlock - Tezos API Example
 
-During [TQ tezos hackathon](http://ideo.tqtezos.com/) our main idea was to implement Tezos support for [Forging Block Universal API](https://api.forgingblock.io/docs/#fbuni).
+During [TQ tezos hackathon](http://ideo.tqtezos.com/) our main idea was to implement Tezos support for [ForgingBlock Universal API](https://api.forgingblock.io/docs/#fbuni).
 
-And while the main product is proprietary, in this public repository we show example of how exactly we interact with tezos blockchain using [conseiljs](https://github.com/Cryptonomic/ConseilJS). So the tezos community could get and idea how easy to use community provided libraries even in such complex project as [Forging Block Universal API](https://api.forgingblock.io/docs/#fbuni).
+And while the main product is proprietary, in this public repository we show example of how exactly we interact with tezos blockchain using [conseiljs](https://github.com/Cryptonomic/ConseilJS). So the tezos community could get and idea how easy to use community provided libraries even in such complex project as [ForgingBlock Universal API](https://api.forgingblock.io/docs/#fbuni).
 
 ## Endpoints
 
